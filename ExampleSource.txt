@@ -1,0 +1,5 @@
+/**
+ *Este es un archivo hecho con la unica razón de ejemplificar 
+ *del manejador de versiones git desde Aptana Studio.
+ *
+ */

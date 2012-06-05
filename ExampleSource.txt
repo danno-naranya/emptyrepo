@@ -2,5 +2,6 @@
  *Este es un archivo hecho con la unica razón de ejemplificar 
  *del manejador de versiones git desde Aptana Studio.    
  *
- *Comentario agregado para el segundo push.
+ *Comentario agregado para obligar al usuario de aptana
+ *a hacer un pull.
  */

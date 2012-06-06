@@ -1,4 +1,0 @@
-emptyrepo
-=========
-
-Empty repo
